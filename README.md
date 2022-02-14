@@ -3,7 +3,11 @@
 This extension adds a dark mode for canvas.
 
 ## Installation
-This extension is available on the [Chrome Web Store](https://chrome.google.com/webstore/detail/canvas-dark-mode/jbfgmfpakhabhhpefblmehnadjjkadna?utm_source=chrome-ntp-icon).
+1) Download
+2) Open `chrome://extensions/` on your browser
+3) Enable developer options
+4) Click `Load Unpacked`
+5) Enjoy your eyes
 
 ## Screenshots
 <p align="center">
@@ -14,22 +18,7 @@ This extension is available on the [Chrome Web Store](https://chrome.google.com/
   <img src="https://raw.githubusercontent.com/DeGrandis/canvas-dark-mode/master/screenshots/screenshot2.PNG">
 </p>
 
-## Contributing
-If you would like to fix/change any of the styles, your expertise is welcome!  This is an open source project and I hope that users will tweak the extension as they see fit.
 
-### How to locally develop
-1. [Fork](https://github.com/DeGrandis/canvas-dark-mode/fork) and clone the project
-2. Create a new branch: `git checkout -b my-branch-name`
-3. Open `chrome://extensions/` on your browser
-4. Click `Load Unpacked`
-5. Make your changes, verify they work.
-6. Push to your fork and [submit a pull request](https://github.com/DeGrandis/canvas-dark-mode/compare)
-7. Wait for your code to be reviewed.
 
-I will be pushing the updated version to the Chrome Store often.
-
-## Additional Resources
-
-* [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
-* [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
-* [GitHub Help](https://help.github.com)
+## Original
+https://github.com/DeGrandis/canvas-dark-mode
